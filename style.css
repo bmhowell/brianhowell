@@ -1,7 +1,7 @@
 body {
 	background-color: white;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 12px;
+	font-size: 16px;
 }
 
 a {
@@ -71,7 +71,7 @@ a {
 #footer {
 	clear: both;
 	padding: 0px 0px 0px 0px;
-	text-align: right;
+	text-align: center;
 	font-size: 10px;
 }
 
