@@ -10,12 +10,18 @@ a {
 
 .one {
 	color: black;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
 	text-decoration: none;
 }
 
 .two {
 	color: black;
-	text-decoration: none;
+	text-align: center;
+	word-spacing: 25px;	
+	font-size: 12px;
+	text-decoration: underline;
 }
 
 .three {
@@ -62,6 +68,12 @@ a {
 #main {
 	float: center;
 	text-align: center;
+	
+}
+
+#main1 {
+	float: right;
+	text-align: right;
 	
 }
 
