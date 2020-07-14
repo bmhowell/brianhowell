@@ -11,9 +11,10 @@ a {
 .one {
 	color: black;
 	text-align: center;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: bold;
 	text-decoration: none;
+	word-spacing 50px
 }
 
 .two {
