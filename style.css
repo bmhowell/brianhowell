@@ -1,7 +1,7 @@
 body {
 	background-color: white;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 a {
@@ -36,9 +36,11 @@ a {
 
 
 #header {
-	padding: 10px 0px 0px 0px;
-	text-align: left;
-	font-weight: bold;
+	padding: 60px;
+  	text-align: left;
+  	background: #1abc9c;
+  	color: black;
+  	font-size: 30px;
 }
 
 
