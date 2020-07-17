@@ -5,7 +5,7 @@ body {
 }
 
 a {
-	
+
 }
 
 .one {
@@ -19,10 +19,10 @@ a {
 
 .two {
 	color: black;
-	text-align: right;
-	word-spacing: 25px;	
+	text-align: center;
 	font-size: 12px;
 	text-decoration: underline;
+	padding: 15px;
 }
 
 .three {
@@ -61,7 +61,7 @@ a {
 
 #nav{
 	text-align: center;
-	word-spacing: 25px;	
+	word-spacing: 25px;
 	font-size: 12px;
 }
 
@@ -69,13 +69,13 @@ a {
 #main {
 	float: center;
 	text-align: center;
-	
+
 }
 
 #main1 {
 	float: right;
 	text-align: right;
-	
+
 }
 
 #about {
@@ -95,12 +95,3 @@ a {
 	list-style-type: none;
 	line-height: 200%;
 }
-
-
-
-
-
-
-
-
-
